@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+openai
+python-dotenv
+PyPDF2
+tiktoken
